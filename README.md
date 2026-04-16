@@ -2,7 +2,7 @@
 
 A full-stack meal planning web app built with React, Node.js, Express, and PostgreSQL. Plan your weekly meals, browse recipes, and auto-generate grocery lists.
 
-![App Preview](https://via.placeholder.com/800x400/0F0E0A/C9A96E?text=Mise+en+Place)
+![App Preview](Photo/MealPrep.png)
 
 ---
 
@@ -187,7 +187,7 @@ mise-en-place/
 ## Author
 
 **Nino Ombongi**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@Nino-Prog](https://github.com/Nino-Prog)
 - Email: nino.ombongi.work@gmail.com
 
 ---
